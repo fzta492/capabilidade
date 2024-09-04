@@ -29,7 +29,8 @@ Cálculo dos índices Cp e Cpk para determinar a capacidade do processo.</br>
 ### 3. Visualização dos Resultados
 
 Um histograma com os limites de especificação e a média das leituras do sensor.</br>
-![image](https://github.com/user-attachments/assets/094ebf61-ee92-4f6c-99d7-d9a642aa4d33)
+![image](https://github.com/user-attachments/assets/c72098eb-8531-4c47-b77a-a6160d335b77)
+
 
 
 ## Conclusão
